@@ -1,20 +1,32 @@
+<style>
+i{
+font-size: 38px;
+color:#677bbf;
+}
+</style>
 
-## Welcome pal 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<!--
-**VXGN/VXGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ <img src="https://i.imgur.com/SH6o3IX.png" alt="banner"/>
 
-<img src="https://media1.tenor.com/m/MoqGXSD1T3sAAAAC/corsair-frenchie.gif" width="300" height="105">
+<div style="display: flex; flex-direction: row; padding: 0px 20px 0px 20px; justify-content: space-around; align-items: center;">
 
-<h2>Neither do I know what I'm currently doing. Here is my favorite stuff:</h2>
-<div style="display: flex; flex-direction: row;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45"/>  
 
+
+<div  style="padding-right: 1px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vxgn&theme=discord_old_blurple&show_icons=true&hide_border=true&count_private=false&hide=issues,prs" height="120" />
+
+</div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgn&layout=compact&theme=discord_old_blurple&hide_border=true&title_color=fff&langs_count=3" height="120" />
+</div>
+
+
+<div style="display: flex; flex-direction: row;  justify-content: space-around; padding-top:20px;">
+<i class="devicon-docker-plain"></i>
+<i class="devicon-archlinux-plain"></i>
+<i class="devicon-k3s-original"></i>
+<i class="devicon-googlecloud-plain"></i>
+<i class="devicon-cloudflare-plain"></i>
 
