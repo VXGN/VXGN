@@ -1,10 +1,3 @@
-<style>
-i{
-font-size: 38px;
-color:#677bbf;
-}
-</style>
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
  <img src="https://i.imgur.com/SH6o3IX.png" alt="banner"/>
