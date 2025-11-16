@@ -1,10 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
- <img src="https://i.imgur.com/SH6o3IX.png" alt="banner"/>
+<img src="https://i.imgur.com/SH6o3IX.png" alt="banner"/>
 
 <div style="display: flex; flex-direction: row; padding: 0px 20px 0px 20px; justify-content: space-around; align-items: center;">
-
-
 
 <div  style="padding-right: 1px;">
 
