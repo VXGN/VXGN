@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: row; padding: 0px 20px 0px 20px; justify-content: space-around; align-items: center;">
 
-<div  style="padding-right: 1px;">
+<div align="center" style="padding-right: 1px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=vxgn&theme=discord_old_blurple&show_icons=true&hide_border=true&count_private=false&hide=issues,prs" height="120" />
 
